@@ -7,7 +7,7 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "CV"
-      href: https://raw.githubusercontent.com/AntoineCastet/AntoineCastet/main/PDF/CV.pdf
+      href: https://antoinecastet.github.io/AntoineCastet/AntoineCastet/main/PDF/CV.pdf
 output:
   html_document:
     theme: flatly
