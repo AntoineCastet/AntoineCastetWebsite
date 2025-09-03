@@ -13,3 +13,5 @@ output:
     theme: flatly
     toc: false
     toc_float: false
+    includes:
+      after_body: footer.Rhtml
