@@ -1,9 +1,13 @@
 ---
-title: ""
+title: "Antoine Castet - Research"
 output:
   html_document:
+    df_print: default
     toc: false
     toc_float: false
+    md_extensions: +fenced_divs
+    includes:
+      in_header: hide-title.Rhtml
 ---
 
 # Publications
