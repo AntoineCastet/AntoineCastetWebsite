@@ -11,7 +11,7 @@
 
 
 
-<title>Home</title>
+<title>index.knit</title>
 
 <script src="site_libs/header-attrs-2.28/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -29,9 +29,6 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
-<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -222,69 +219,6 @@ $(document).ready(function () {
 
 
 
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-@media print {
-.toc-content {
-  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
-  float: right;
-}
-}
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-
-</style>
-
-
 
 </head>
 
@@ -292,16 +226,6 @@ div.tocify {
 
 
 <div class="container-fluid main-container">
-
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -325,16 +249,11 @@ div.tocify {
   <a href="research.html">Research</a>
 </li>
 <li>
-  <a href="cv.html">CV</a>
+  <a href="https://antoinecastet.github.io/Website/CV.pdf">CV</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li>
-  <a href="https://scholar.google.com/citations?user=YOUR_ID">Google Scholar</a>
-</li>
-<li>
-  <a href="https://www.linkedin.com/in/antoinecastet/">LinkedIn</a>
-</li>
+        
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
@@ -344,26 +263,34 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Home</h1>
 
 </div>
 
 
-<div id="antoine-castet" class="section level1">
+<div class="row align-items-center">
+<div class="col-md-3">
+<p><img src="Images/pdp.jpg" width="200" /></p>
+</div>
+<div id="antoine-castet" class="section level1 col-md-9"
+style="margin-top:30px;">
 <h1>Antoine Castet</h1>
-<p align="center">
-<img src="Images/pdp.jpg" width="200">
-</p>
-<p><strong>Postdoctoral researcher at AgroParisTech</strong><br />
-<a
-href="mailto:antoine.castet@univ-paris1.fr">antoine.castet@univ-paris1.fr</a></p>
-<p>CIRED, 45bis Av. de la Belle Gabrielle, 94130 Nogent-sur-Marne,
+<p><strong>Postdoctoral researcher, AgroParisTech / CIRED</strong></p>
+<p>📧
+<a href="mailto:antoine.castet@univ-paris1.fr" style="color:#0d6efd;">
+antoine.castet@univ-paris1.fr </a></p>
+<p>📍 CIRED, 45bis Av. de la Belle Gabrielle, 94130 Nogent-sur-Marne,
 France</p>
-<p><strong>Links:</strong> <a href="cv.html">CV</a> · <a
-href="https://www.linkedin.com/in/antoinecastet/">LinkedIn</a> · <a
-href="https://scholar.google.com/">Google Scholar</a></p>
-<div id="about" class="section level2">
-<h2>About</h2>
+<p>🔗 <a href="cv.html" style="color:#0d6efd;">CV</a> ·
+<a href="https://www.linkedin.com/in/antoinecastet/" style="color:#0d6efd;">LinkedIn</a>
+·
+<a href="https://scholar.google.com/citations?user=PAZtH9YAAAAJ&hl=fr" style="color:#0d6efd;">Google
+Scholar</a> ·
+<a href="https://ideas.repec.org/f/pca1705.html" style="color:#0d6efd;">RePEc</a></p>
+</div>
+</div>
+<hr style="border: 2px solid black;">
+<div id="about" class="section level1">
+<h1>About</h1>
 <p>I am a postdoctoral researcher at <a
 href="https://www.agroparistech.fr">AgroParisTech</a> in the Centre for
 International Research on Environment and Development (<a
@@ -372,44 +299,66 @@ This <a href="https://cland.lsce.ipsl.fr">CLAND</a>-funded position,
 supervised by <a href="https://scholar.google.com">Thierry Brunelle</a>,
 analyses maize intensification in Kenya and sub-Saharan Africa.<br />
 My research interests are in development and agricultural economics.</p>
+<hr style="border: 2px solid black;">
 </div>
-<div id="research-highlights" class="section level2">
-<h2>Research (highlights)</h2>
-<p><strong>Publications</strong> - <em>The impact of large-scale land
-acquisitions on food security in Africa</em>, <strong>World
-Development</strong>, 179, July 2024. <a
-href="https://antoinecastet.github.io">PDF</a><br />
-- <em>Food security and Covid-19: An analysis of the MENA region</em>
-(with Racha Ramadan), <strong>Revue d’Économie du
-Développement</strong>, 33(3–4), 2023.</p>
-<p><strong>Working papers</strong> - <em>Water scarcity shapes the
-impact of large-scale land acquisitions on child nutrition in the Global
-South</em> (with Julie Faure et al.). Submitted.<br />
-- <em>Climate Change and Gendered Structural Transformation in
-Africa</em> (with Kibrom Abay and Martin Paul Jr. Tabe-Ojong).<br />
-- <em>The conquest of the desert: Land investment in Egypt.</em> Job
-Market Paper.</p>
-<p>See the full list on the <a href="research.html">Research</a>
-page.</p>
+<div id="research" class="section level1">
+<h1>Research</h1>
+<p><strong>Publications</strong></p>
+<ol style="list-style-type: decimal">
+<li><p><strong>The impact of large-scale land acquisitions on food
+security in Africa</strong>, <a
+href="https://doi.org/10.1016/j.worlddev.2024.106597"><strong>World
+Development</strong></a>, 179, July 2024. <a
+href="https://antoinecastet.github.io/Website/1-s2.0-S0305750X24000676-main.pdf">PDF</a></p></li>
+<li><p><strong>Food security and Covid-19: An analysis of the MENA
+region</strong> (with <a href="https://www.racharamadan.com/">Racha
+Ramadan</a>), <a
+href="https://www.cairn.info/revue-d-economie-du-developpement-2023-3-page-29.htm?contenu=article"><strong>Revue
+d’Économie du Développement</strong></a>, 33(3–4), 2023.</p></li>
+</ol>
+<p><strong>Working papers</strong></p>
+<ol style="list-style-type: decimal">
+<li><p><strong>Water scarcity shapes the impact of large-scale land
+acquisitions on child nutrition in the Global South</strong> (with <a
+href="https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&amp;hl=ja">Julie
+Faure</a> et al.). <em>Submitted</em>.</p></li>
+<li><p><strong>Climate Change and Gendered Structural Transformation in
+Africa</strong> (with <a
+href="https://scholar.google.com/citations?user=-ga5p8UAAAAJ&amp;hl=en">Kibrom
+Abay</a> and <a
+href="https://scholar.google.com/citations?user=OwxVewYAAAAJ&amp;hl=en">Martin
+Paul Jr.Tabe-Ojong</a>). <em>Submitted</em>.</p></li>
+<li><p><strong>The conquest of the desert: Land investment in
+Egypt.</strong> <em>Job Market Paper</em>.</p></li>
+</ol>
+<p>More details are available on the <a
+href="research.html">Research</a> page.</p>
+<hr style="border: 2px solid black;">
 </div>
-<div id="education-experience" class="section level2">
-<h2>Education &amp; Experience</h2>
-<p><strong>Education</strong> - Ph.D in Development economics,
-2020–2025, Paris 1 Panthéon-Sorbonne University<br />
-- Master in Development economics, 2017–2019, Paris 1 Panthéon-Sorbonne
+<div id="education-experience" class="section level1">
+<h1>Education &amp; Experience</h1>
+<p><strong>Education</strong></p>
+<ul>
+<li>Ph.D in Development economics, 2020–2025, Paris 1 Panthéon-Sorbonne
 University<br />
-- Bachelor in Economics, 2014–2017, Poitiers University</p>
-<p><strong>Experience</strong> - Postdoctoral researcher at CIRED,
-2025–2027<br />
-- Teaching fellow at Sciences Po Paris, 2023–2025<br />
-- Intern at International Food Policy Research Institute, 2023</p>
-</div>
+</li>
+<li>Master in Development economics, 2017–2019, Paris 1
+Panthéon-Sorbonne University<br />
+</li>
+<li>Bachelor in Economics, 2014–2017, Poitiers University</li>
+</ul>
+<p><strong>Experience</strong></p>
+<ul>
+<li>Postdoctoral researcher at CIRED, 2025–2027<br />
+</li>
+<li>Teaching fellow at Sciences Po Paris, 2023–2025<br />
+</li>
+<li>Intern at International Food Policy Research Institute, 2023</li>
+</ul>
 </div>
 
 
 
-</div>
-</div>
 
 </div>
 
@@ -442,35 +391,6 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
-<script>
-$(document).ready(function ()  {
-
-    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
-    $('.unlisted.unnumbered').addClass('toc-ignore')
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

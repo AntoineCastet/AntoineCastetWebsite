@@ -1,5 +1,4 @@
 name: "AntoineCastetWebsite"
-title: "Antoine Castet"
 output_dir: "docs"
 navbar:
   left:
@@ -8,14 +7,10 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "CV"
-      href: cv.html
-  right:
-    - text: "Google Scholar"
-      href: https://scholar.google.com/citations?user=YOUR_ID
-    - text: "LinkedIn"
-      href: https://www.linkedin.com/in/antoinecastet/
+      href: https://antoinecastet.github.io/Website/CV.pdf
+      
 output:
   html_document:
     theme: flatly
-    toc: true
-    toc_float: true
+    toc: false
+    toc_float: false

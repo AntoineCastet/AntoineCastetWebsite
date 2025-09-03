@@ -1,8 +1,8 @@
 ---
-title: "CV"
+title: ""
 output: html_document
 ---
-# CV
+# Curriculum vitæ
 
 - View the PDF: [cv.pdf](cv.pdf)
 

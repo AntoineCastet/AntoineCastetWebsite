@@ -1,47 +1,73 @@
 ---
-title: "Home"
-output: html_document
+title: ""
+output:
+  html_document:
+    md_extensions: +fenced_divs
 ---
+
+::: {.row .align-items-center}
+::: {.col-md-3}
+![](Images/pdp.jpg){width=200}
+:::
+::: {.col-md-9 style="margin-top:30px;"}
+
 # Antoine Castet
+**Postdoctoral researcher, AgroParisTech / CIRED**
 
-<p align="center">
-  <img src="Images/pdp.jpg" width="200">
-</p>
+📧 <a href="mailto:antoine.castet@univ-paris1.fr" style="color:#0d6efd;">
+antoine.castet@univ-paris1.fr
+</a>
 
-**Postdoctoral researcher at AgroParisTech**  
-[antoine.castet@univ-paris1.fr](mailto:antoine.castet@univ-paris1.fr)  
+📍 CIRED, 45bis Av. de la Belle Gabrielle, 94130 Nogent-sur-Marne, France
 
-CIRED, 45bis Av. de la Belle Gabrielle, 94130 Nogent-sur-Marne, France
+🔗 <a href="cv.html" style="color:#0d6efd;">CV</a> ·
+<a href="https://www.linkedin.com/in/antoinecastet/" style="color:#0d6efd;">LinkedIn</a> ·
+<a href="https://scholar.google.com/citations?user=PAZtH9YAAAAJ&hl=fr" style="color:#0d6efd;">Google Scholar</a> ·
+<a href="https://ideas.repec.org/f/pca1705.html" style="color:#0d6efd;">RePEc</a>
 
-**Links:** [CV](cv.html) · [LinkedIn](https://www.linkedin.com/in/antoinecastet/) · [Google Scholar](https://scholar.google.com/)
+:::
+:::
 
-## About
+<hr style="border: 2px solid black;">
+
+# About
 
 I am a postdoctoral researcher at [AgroParisTech](https://www.agroparistech.fr) in the Centre for International Research on Environment and Development ([CIRED](https://www.centre-cired.fr)).  
 This [CLAND](https://cland.lsce.ipsl.fr)-funded position, supervised by [Thierry Brunelle](https://scholar.google.com), analyses maize intensification in Kenya and sub-Saharan Africa.  
 My research interests are in development and agricultural economics.  
 
-## Research (highlights)
+<hr style="border: 2px solid black;">
+
+# Research
 
 **Publications**
-- *The impact of large-scale land acquisitions on food security in Africa*, **World Development**, 179, July 2024. [PDF](https://antoinecastet.github.io)  
-- *Food security and Covid-19: An analysis of the MENA region* (with Racha Ramadan), **Revue d’Économie du Développement**, 33(3–4), 2023.
+
+1. **The impact of large-scale land acquisitions on food security in Africa**, [**World Development**](https://doi.org/10.1016/j.worlddev.2024.106597), 179, July 2024. [PDF](https://antoinecastet.github.io/Website/1-s2.0-S0305750X24000676-main.pdf)  
+
+2. **Food security and Covid-19: An analysis of the MENA region** (with [Racha Ramadan](https://www.racharamadan.com/)), [**Revue d’Économie du Développement**](https://www.cairn.info/revue-d-economie-du-developpement-2023-3-page-29.htm?contenu=article), 33(3–4), 2023.
 
 **Working papers**
-- *Water scarcity shapes the impact of large-scale land acquisitions on child nutrition in the Global South* (with Julie Faure et al.). Submitted.  
-- *Climate Change and Gendered Structural Transformation in Africa* (with Kibrom Abay and Martin Paul Jr. Tabe-Ojong).  
-- *The conquest of the desert: Land investment in Egypt.* Job Market Paper.
 
-See the full list on the [Research](research.html) page.
+1. **Water scarcity shapes the impact of large-scale land acquisitions on child nutrition in the Global South** (with [Julie Faure](https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&hl=ja) et al.). *Submitted*.  
 
-## Education & Experience
+2. **Climate Change and Gendered Structural Transformation in Africa** (with [Kibrom Abay](https://scholar.google.com/citations?user=-ga5p8UAAAAJ&hl=en) and [Martin Paul Jr.Tabe-Ojong](https://scholar.google.com/citations?user=OwxVewYAAAAJ&hl=en)). *Submitted*.  
+
+3. **The conquest of the desert: Land investment in Egypt.** *Job Market Paper*.
+
+More details are available on the [Research](research.html) page.
+
+<hr style="border: 2px solid black;">
+
+# Education & Experience
 
 **Education**
+
 - Ph.D in Development economics, 2020–2025, Paris 1 Panthéon-Sorbonne University  
 - Master in Development economics, 2017–2019, Paris 1 Panthéon-Sorbonne University  
 - Bachelor in Economics, 2014–2017, Poitiers University
 
 **Experience**
+
 - Postdoctoral researcher at CIRED, 2025–2027  
 - Teaching fellow at Sciences Po Paris, 2023–2025  
 - Intern at International Food Policy Research Institute, 2023
