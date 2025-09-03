@@ -20,7 +20,7 @@ antoine.castet@univ-paris1.fr
 
 📍 CIRED, 45bis Av. de la Belle Gabrielle, 94130 Nogent-sur-Marne, France
 
-🔗 <a href="cv.html" style="color:#0d6efd;">CV</a> ·
+🔗 <a href="https://github.com/AntoineCastet/AntoineCastet/blob/4dbb83d9d226dbb9fb019440cf2bc08c981d0375/PDF/CV.pdf" style="color:#0d6efd;">CV</a> ·
 <a href="https://www.linkedin.com/in/antoinecastet/" style="color:#0d6efd;">LinkedIn</a> ·
 <a href="https://scholar.google.com/citations?user=PAZtH9YAAAAJ&hl=fr" style="color:#0d6efd;">Google Scholar</a> ·
 <a href="https://ideas.repec.org/f/pca1705.html" style="color:#0d6efd;">RePEc</a>
