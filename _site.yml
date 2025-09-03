@@ -1,6 +1,6 @@
-name: "my-academic-site"
-title: "Your Name"
-output_dir: "docs"        # GitHub Pages-friendly
+name: "AntoineCastetWebsite"
+title: "Antoine Castet"
+output_dir: "docs"
 navbar:
   left:
     - text: "Home"
@@ -9,8 +9,13 @@ navbar:
       href: research.html
     - text: "CV"
       href: cv.html
+  right:
+    - text: "Google Scholar"
+      href: https://scholar.google.com/citations?user=YOUR_ID
+    - text: "LinkedIn"
+      href: https://www.linkedin.com/in/antoinecastet/
 output:
   html_document:
-    theme: flatly          # or use bslib for custom themes
+    theme: flatly
     toc: true
     toc_float: true

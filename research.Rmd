@@ -1,5 +1,24 @@
 ---
-title: "research"
+title: "Research"
 output: html_document
 ---
-List working papers, publications, data, and code links.
+# Publications
+
+- *The impact of large-scale land acquisitions on food security in Africa*, **World Development**, 179, July 2024.  
+  [Journal](https://www.sciencedirect.com/journal/world-development) · [PDF](https://antoinecastet.github.io)
+
+- *Food security and Covid-19: An analysis of the MENA region* (with Racha Ramadan), **Revue d’Économie du Développement**, 33(3–4), 2023.  
+  [Journal](https://www.cairn.info/revue-d-economie-du-developpement.htm)
+
+# Working papers
+
+- *Water scarcity shapes the impact of large-scale land acquisitions on child nutrition in the Global South*  
+  (with Julie Faure, Leonardo Bertassello, Davide Danilo Chiarelli, Sandra Eckert, Kyle Frankel Davis, Jampel Dell’Angelo, Paolo D’Odorico, Maria Cristina Rulli, Bhoktear Khan, Marc F. Müller). Submitted.
+
+- *Climate Change and Gendered Structural Transformation in Africa*  
+  (with Kibrom Abay, Martin Paul Jr. Tabe-Ojong).
+
+- *The conquest of the desert: Land investment in Egypt.* Job Market Paper.
+
+# Data & code
+- Add links to GitHub repos or Zenodo DOIs here.
