@@ -36,7 +36,7 @@ output:
 
 # Working papers
 
-1. **Water scarcity shapes the impact of large-scale land acquisitions on child nutrition in the Global South** (with [Julie Faure](https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&hl=ja), Leonardo Bertassello, Davide Danilo Chiarelli, Sandra Eckert, Kyle Frankel Davis, Jampel Dell’Angelo, Paolo D’Odorico, Maria Cristina Rulli, Bhoktear Khan, and [Marc F. Müller](https://scholar.google.com/citations?user=jnHeBrcAAAAJ&hl=en)). *Submitted*.  
+1. **Water scarcity shapes the impact of large-scale land acquisitions on child nutrition in the Global South** (with [Julie Faure](https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&hl=ja), [Leonardo Bertassello](https://scholar.google.com/citations?user=tnmtsjAAAAAJ&hl=it), [Davide Danilo Chiarelli](https://scholar.google.it/citations?user=hM-mvuEAAAAJ&hl=it), [Sandra Eckert](https://scholar.google.com/citations?user=2q-I5M4AAAAJ&hl=de), [Kyle Frankel Davis](https://scholar.google.com/citations?user=Izxxqq0AAAAJ&hl=en), [Jampel Dell’Angelo](https://scholar.google.com/citations?user=eQBr5i0AAAAJ&hl=en), [Paolo D’Odorico](https://scholar.google.com/citations?user=yQsaasMAAAAJ&hl=en), [Maria Cristina Rulli](https://scholar.google.com/citations?user=OiBY7bkAAAAJ&hl=en), [Bhoktear Khan](https://scholar.google.com/citations?user=cQ4tR1UAAAAJ&hl=en), and [Marc F. Müller](https://scholar.google.com/citations?user=jnHeBrcAAAAJ&hl=en)). *Submitted*.  
 
 <button class="btn btn-primary btn-sm" type="button" data-toggle="collapse" data-target="#abs-water" aria-expanded="false" aria-controls="abs-water" style="margin-left:25px;">
   Show Abstract
