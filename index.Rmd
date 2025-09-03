@@ -4,6 +4,10 @@ output: html_document
 ---
 # Antoine Castet
 
+<p align="center">
+  <img src="Images/pdp.jpg" width="200">
+</p>
+
 **Postdoctoral researcher at AgroParisTech**  
 [antoine.castet@univ-paris1.fr](mailto:antoine.castet@univ-paris1.fr)  
 
