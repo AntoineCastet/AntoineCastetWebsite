@@ -33,7 +33,7 @@ antoine.castet@univ-paris1.fr
 # About
 
 I am a postdoctoral researcher at [AgroParisTech](https://www.agroparistech.fr) in the Centre for International Research on Environment and Development ([CIRED](https://www.centre-cired.fr)).  
-This [CLAND](https://cland.lsce.ipsl.fr)-funded position, supervised by [Thierry Brunelle](https://scholar.google.com), analyses maize intensification in Kenya and sub-Saharan Africa.  
+This [CLAND](https://cland.lsce.ipsl.fr)-funded position, supervised by [Thierry Brunelle](https://scholar.google.com/citations?user=70WNvUcAAAAJ&hl=fr), analyses maize intensification in Kenya and sub-Saharan Africa.  
 My research interests are in development and agricultural economics.  
 
 <hr style="border: 2px solid black;">

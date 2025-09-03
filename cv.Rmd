@@ -1,9 +1,0 @@
----
-title: ""
-output: html_document
----
-# Curriculum vitæ
-
-- View the PDF: [cv.pdf](cv.pdf)
-
-> Place `cv.pdf` at the project root or in `docs/` and adjust the link if needed.
