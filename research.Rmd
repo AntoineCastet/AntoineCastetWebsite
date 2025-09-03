@@ -15,7 +15,10 @@ output:
 ::: {.col-md-6 style="padding-left:2.5px; text-align:justify;"}
 1. **The impact of large-scale land acquisitions on food security in Africa**, [**World Development**](https://doi.org/10.1016/j.worlddev.2024.106597), 179, July 2024. [PDF](https://antoinecastet.github.io/Website/1-s2.0-S0305750X24000676-main.pdf)
   
-  **Abstract**: *Food insecurity is a major concern in most African countries. Large-scale land acquisitions (LSLAs) frequently have a negative impact on local communities. In this paper, I examine the impact of LSLAs on the nutritional status of neighboring children. To this end, I use a difference-in-differences methodology applied to LSLAs in a large number of African countries at different times since the early 2000s. I analyze data from Demographic and Health Surveys combined with data from the Land Matrix Initiative, supplemented by my own research, ultimately covering 18,276 children living in the vicinity of 45 LSLAs. I show that LSLAs have had a significant negative impact on child nutrition in Africa over the past two decades. Specifically, the dietary diversity scores of children living close to LSLAs were reduced by 20 per cent after acquisition. The results are robust to various statistical tests. I find no changes in work status or household assets. While the impact of LSLAs may be positive for agricultural practices, it is negative for child food security. The analysis highlights the importance of supporting local communities following foreign agricultural investment.*
+<div style="margin-left:25px; text-align:justify;">
+
+<strong>Abstract</strong>: *Food insecurity is a major concern in most African countries. Large-scale land acquisitions (LSLAs) frequently have a negative impact on local communities. In this paper, I examine the impact of LSLAs on the nutritional status of neighboring children. To this end, I use a difference-in-differences methodology applied to LSLAs in a large number of African countries at different times since the early 2000s. I analyze data from Demographic and Health Surveys combined with data from the Land Matrix Initiative, supplemented by my own research, ultimately covering 18,276 children living in the vicinity of 45 LSLAs. I show that LSLAs have had a significant negative impact on child nutrition in Africa over the past two decades. Specifically, the dietary diversity scores of children living close to LSLAs were reduced by 20 per cent after acquisition. The results are robust to various statistical tests. I find no changes in work status or household assets. While the impact of LSLAs may be positive for agricultural practices, it is negative for child food security. The analysis highlights the importance of supporting local communities following foreign agricultural investment.*
+</div>
 :::
 :::
 
@@ -28,7 +31,11 @@ output:
 ::: {.col-md-6 style="margin-top:50px; padding-left:2.5px; text-align:justify;"}
 2. **Food security and Covid-19: An analysis of the MENA region** (with [Racha Ramadan](https://www.racharamadan.com/)), [**Revue d’Économie du Développement**](https://www.cairn.info/revue-d-economie-du-developpement-2023-3-page-29.htm?contenu=article), 33(3–4), 2023.
 
-  **Abstract**: *We study the food situation of households in five countries in the Middle East and North Africa region during the Covid-19 pandemic. We show that household food security was negatively affected during the pandemic.*
+<div style="margin-left:25px; text-align:justify;">
+
+<strong>Abstract</strong>: *We study the food situation of households in five countries in the Middle East and North Africa region during the Covid-19 pandemic. We show that household food security was negatively affected during the pandemic.*
+</div>
+
 :::
 :::
 
