@@ -1,5 +1,7 @@
 ---
 title: "Antoine Castet"
+pagetitle: "Antoine Castet"
+
 output:
   html_document:
     df_print: default
@@ -7,7 +9,8 @@ output:
     toc_float: false
     md_extensions: +fenced_divs
     includes:
-      in_header: hide-title.Rhtml
+      in_header: 
+      - hide-title.Rhtml
 ---
 
 ::: {.row .align-items-center}
