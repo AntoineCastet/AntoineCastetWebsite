@@ -78,7 +78,7 @@ B.A in Economics \hfill {Poitiers, France}
 \textbf{Prof. \href{https://scholar.google.com/citations?user=-IXkBZAAAAAJ\&hl=fr}{Rémi Bazillier}} &
 \textbf{Prof. \href{https://scholar.google.com/citations?user=6c8QzJwAAAAJ\&hl=fr}{Alain Desdoigts}} &
 \textbf{Prof. \href{https://scholar.google.com/citations?user=mImSYc4AAAAJ\&hl=fr\&oi=ao}{Karine Marazyan}} \\
-Panth\'eon-Sorbonne, CES & Panth\'eon-Sorbonne, DEVSOC & Rouen Normandy, LASTA \\
+Panth\'eon-Sorbonne, CES & Panth\'eon-Sorbonne, DEVSOC & Rouen Normandy, LERN \\
 remi.bazillier@univ-paris1.fr & alain.desdoigts@univ-paris1.fr & karine.marazyan@univ-rouen.fr \\
 \end{tabular}
 \end{rSection}
