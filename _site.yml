@@ -2,6 +2,7 @@ title: "Antoine Castet"
 pagetitle: "Antoine Castet"
 output_dir: "docs"
 navbar:
+  title: "Antoine Castet"
   left:
     - text: "Home"
       href: index.html
