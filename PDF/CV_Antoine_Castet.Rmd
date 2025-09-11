@@ -26,7 +26,7 @@ header-includes:
 
 \noindent\begin{tabular}{p{0.62\textwidth} p{0.34\textwidth}}
 \textbf{Contact information} & \textbf{Personal information} \\
-\href{mailto:antoine.castet@univ-paris1.fr}{antoine.castet@univ-paris1.fr} & Citizenship: French \\
+\href{mailto:antoine.castet@agroparistech.fr}{antoine.castet@agroparistech.fr} & Citizenship: French \\
 22 place de l’Agronomie, Palaiseau & Born in 1996 \\
 \href{https://antoinecastet.github.io/AntoineCastet/}{Website} & \href{https://scholar.google.com/citations?user=PAZtH9YAAAAJ&hl=fr}{Google Scholar} \\
 \end{tabular}

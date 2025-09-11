@@ -6,7 +6,6 @@ url: https://antoinecastet.github.io
 name: Antoine Castet
 
 navbar:
-  title: "Antoine Castet"
   left:
     - text: "Home"
       href: index.html
